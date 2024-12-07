@@ -39,3 +39,5 @@
 | Fehlerszenario | Eine Abfrage für Daten des Belegungsplanes wird erstellt und an den Server gesendet. Die Abfrage kann nicht verarbeitet werden. |
 | Nachbedingung | Der Belegungsplan wird angezeigt. |
 | Nachbedingung (Fehlerszenario) | Es wird eine Fehlermeldung angezeigt und den Nutzer wird angeboten die Anfrage erneut zu senden. |
+
+![Alt text of the image](https://github.com/jonathan-hildebrandt/R-misch_Zwei/blob/main/image.png))
