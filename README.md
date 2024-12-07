@@ -1,4 +1,4 @@
-# Requirements Engineering - Gruppe II - Use Case Übung + Diagramm (siehe unten)
+# Requirements Engineering - Gruppe II - Use Case Übung + Diagramm
 
 ## Anforderung 1
 
