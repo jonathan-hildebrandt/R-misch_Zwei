@@ -44,4 +44,4 @@
 
 ## Use Case Diagramm
 
-![Alt text of the image](https://github.com/jonathan-hildebrandt/R-misch_Zwei/blob/main/image.png))
+![Alt text of the image](https://github.com/jonathan-hildebrandt/R-misch_Zwei/blob/main/image.png)
