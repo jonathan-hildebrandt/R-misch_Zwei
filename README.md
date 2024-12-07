@@ -40,4 +40,6 @@
 | Nachbedingung | Der Belegungsplan wird angezeigt. |
 | Nachbedingung (Fehlerszenario) | Es wird eine Fehlermeldung angezeigt und den Nutzer wird angeboten die Anfrage erneut zu senden. |
 
+## Use Case Diagramm
+
 ![Alt text of the image](https://github.com/jonathan-hildebrandt/R-misch_Zwei/blob/main/image.png))
