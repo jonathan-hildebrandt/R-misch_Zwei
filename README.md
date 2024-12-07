@@ -9,7 +9,7 @@
 | Auslöser | Zu einem Medikamentenplan soll ein neues Medikament hinzugefügt werden. |
 | Vorbedingung | Ein Arzt verordnet ein Medikament  |
 | Fachliche Beschreibung | Ein verordnetes Medikament soll einem Medikantenplan hinzufügt werden. |
-| Hauptszenario | Ein/e Pflegekraft/Arzt öffnet den Medimentenplan eines Patienten und wählt aus einer Liste das zu verabreichenden Dokument |
+| Hauptszenario | Ein/e Pflegekraft/Arzt öffnet den Medimentenplan eines Patienten und wählt aus einer Liste das zu verabreichenden Medikament |
 | Fehlerszenario | Der Medikamentenplan kann nicht abgerufen werden. | 
 | Nachbedingung | Medikament wurde hinzugefügt und wird dem Nutzer als Rückmeldung angezeigt. |
 | Nachbedingung (Fehlerszenario) | Das zu verabreichende Medikament ist nicht in der Liste vorhanden. |
